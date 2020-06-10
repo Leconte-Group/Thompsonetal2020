@@ -1,5 +1,5 @@
 # Error Rate Calculations
-Starting sequence data in FASTQ files, this program creates excel documents with data involving insertion, deletion, and misincorporation rates.  Sequences are aligned with a template using Bipyhons pairwise comparison and the aggregate error rate, error rate at each position, and the aggregate error spectrum is calculated.  The output is seperated by barcode (if the samples have barcodes) to identify unique experiments.
+Starting sequence data in FASTQ files, this program creates Microsoft Excel documents with data involving insertion, deletion, and misincorporation rates.  Sequences are aligned with a template using Biopython's pairwise comparison and the aggregate error rate, error rate at each position, and the aggregate error spectrum is calculated.  The output is seperated by barcode (if the samples have barcodes) to identify unique experiments.
 
 Prerequesites:
 
